@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?><input type="button" name="Action" id="deleteButton" value="<?php print GetLang('Addon_surveys_Delete'); ?>" class="Field">

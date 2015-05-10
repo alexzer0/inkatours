@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?>&nbsp;<a href="index.php?Page=Schedule&Action=Pause&job=<?php if(isset($GLOBALS['JobID'])) print $GLOBALS['JobID']; ?>"><?php print GetLang('Pause'); ?></a>

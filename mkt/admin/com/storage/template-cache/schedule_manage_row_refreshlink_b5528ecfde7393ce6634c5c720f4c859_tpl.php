@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?>&nbsp;<a href="index.php?Page=Schedule&DisplayPage=<?php if(isset($GLOBALS['RefreshDisplayPage'])) print $GLOBALS['RefreshDisplayPage']; ?>"><?php print GetLang('Refresh'); ?></a>

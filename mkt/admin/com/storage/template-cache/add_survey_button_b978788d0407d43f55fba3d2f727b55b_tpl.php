@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?><input type="submit" name="Action" value="<?php print GetLang('Addon_surveys_Create'); ?>" class="Field" onclick="location.href='<?php echo $tpl->Get('AdminUrl'); ?>&Action=Create';return false;">

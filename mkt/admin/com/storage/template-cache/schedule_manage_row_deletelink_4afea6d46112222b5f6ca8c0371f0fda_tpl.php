@@ -1,0 +1,1 @@
+<?php $IEM = $tpl->Get('IEM'); ?>&nbsp;<a href="javascript: ConfirmDelete('<?php if(isset($GLOBALS['JobID'])) print $GLOBALS['JobID']; ?>');"><?php print GetLang('Delete'); ?></a>
